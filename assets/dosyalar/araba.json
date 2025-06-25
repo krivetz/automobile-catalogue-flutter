@@ -1,0 +1,92 @@
+{
+  "arabalar": [
+    {
+      "id": 1,
+      "isim": "Ferrari",
+      "resim": "https://w7.pngwing.com/pngs/224/949/png-transparent-ferrari-logo-laferrari-car-museo-ferrari-enzo-ferrari-ferrari-emblem-logo-sign-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "isim": "Lamborghini",
+      "resim": "https://e7.pngegg.com/pngimages/751/481/png-clipart-lamborghini-logo-brand-fellow-lamborghini-emblem-label-thumbnail.png"
+    },
+    {
+      "id": 3,
+      "isim": "Porsche",
+      "resim": "https://e7.pngegg.com/pngimages/417/210/png-clipart-porsche-logo-porsche-911-porsche-panamera-logo-porsche-car-logo-brand-emblem-label-thumbnail.png"
+    },
+    {
+      "id": 4,
+      "isim": "Mercedes",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Logo.svg/2048px-Mercedes-Logo.svg.png"
+    },
+    {
+      "id": 5,
+      "isim": "Jaguar",
+      "resim": "https://www.carlogos.org/car-logos/jaguar-logo-2021-download.png"
+    },
+    {
+      "id": 6,
+      "isim": "BMW",
+      "resim": "https://e7.pngegg.com/pngimages/934/319/png-clipart-bmw-2002tii-car-bmw-i8-bmw-m3-bmw-emblem-trademark-thumbnail.png"
+    },
+    {
+      "id": 7,
+      "isim": "Audi",
+      "resim": "https://w7.pngwing.com/pngs/492/427/png-transparent-audi-logo-audi-r8-car-logo-audi-text-trademark-desktop-wallpaper-thumbnail.png"
+    },
+    {
+      "id": 8,
+      "isim": "Bugatti",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bugatti_Logo.png"
+    },
+    {
+      "id": 9,
+      "isim": "Aston Martin",
+      "resim": "https://www.logo-designer.co/storage/2022/10/2022-New-Aston-Martiin-logo-design.png"
+    },
+    {
+      "id": 10,
+      "isim": "McLaren",
+      "resim": "https://www.carlogos.org/logo/McLaren-logo-1997-1920x1080.png"
+    },
+    {
+      "id": 11,
+      "isim": "Pagani",
+      "resim": "https://w7.pngwing.com/pngs/798/705/png-transparent-pagani-zonda-pagani-huayra-sports-car-geneva-motor-show-car-emblem-label-logo.png"
+    },
+    {
+      "id": 12,
+      "kategori": 3,
+      "isim": "Koenigsegg",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Koenigsegg-logo-1994-2048x2048.png/800px-Koenigsegg-logo-1994-2048x2048.png"
+    },
+    {
+      "id": 13,
+      "kategori": 3,
+      "isim": "Chevrolet",
+      "resim": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Chevrolet_%282002%29.svg/revision/latest/scale-to-width-down/300?cb=20180910150537"
+    },
+    {
+      "id": 14,
+      "kategori": 3,
+      "isim": "Maserati",
+      "resim": "https://pngimg.com/d/maserati_PNG64.png"
+    }
+  ]/*,
+  "kategoriler": [
+    {
+      "id": 1,
+      "isim": "Yarış"
+    },
+    {
+      "id": 2,
+      "isim": "Spor"
+    },
+    {
+      "id": 3,
+      "isim": "Lüks"
+    }
+  ]*/
+  
+}
